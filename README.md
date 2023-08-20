@@ -33,11 +33,11 @@ Explore a range of texture packs tailored for different Minecraft versions. Each
 If you have questions, need assistance with using a texture pack, or want to provide feedback, feel free to open an issue in this repository. Our community is here to help and engage in discussions related to the texture packs.
 
 ## Legal Disclaimer
-> [!IMPORTANT]
+> [!NOTE]
 > Please note that these texture packs are designed for use within the Minecraft game and may not be used for commercial purposes. Check the individual Modrinth pages for each texture pack for usage terms and permissions.
 
 ## License
-
-The texture packs in this repository are available under the terms specified on the respective Modrinth pages. Refer to the Modrinth pages for each texture pack for information about usage rights and permissions.
+> [!NOTE]
+> The texture packs in this repository are available under the terms specified on the respective Modrinth pages. Refer to the Modrinth pages for each texture pack for information about usage rights and permissions.
 
 Enjoy enhancing your Minecraft experience with Devvy's Modrinth Texture Packs!

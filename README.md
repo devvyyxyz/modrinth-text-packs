@@ -1,8 +1,6 @@
 # Devvy's Modrinth Texture Packs
 
 Welcome to the Devvy's Modrinth Texture Packs repository! This repository hosts a collection of texture packs created by Devvyxyz and published on Modrinth.com. These texture packs offer unique visual experiences for various Minecraft versions.
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
 
 ## Texture Packs
 
@@ -35,8 +33,8 @@ Explore a range of texture packs tailored for different Minecraft versions. Each
 If you have questions, need assistance with using a texture pack, or want to provide feedback, feel free to open an issue in this repository. Our community is here to help and engage in discussions related to the texture packs.
 
 ## Legal Disclaimer
-
-Please note that these texture packs are designed for use within the Minecraft game and may not be used for commercial purposes. Check the individual Modrinth pages for each texture pack for usage terms and permissions.
+> [!IMPORTANT]
+> Please note that these texture packs are designed for use within the Minecraft game and may not be used for commercial purposes. Check the individual Modrinth pages for each texture pack for usage terms and permissions.
 
 ## License
 

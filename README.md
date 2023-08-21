@@ -8,9 +8,9 @@ Explore a range of texture packs tailored for different Minecraft versions. Each
 
 ### List of Texture Packs
 
-- [Texture Pack 1](/texture-pack-1): A brief description of this texture pack.
-- [Texture Pack 2](/texture-pack-2): A brief description of this texture pack.
-- ...
+- [Gold title](https://modrinth.com/resourcepack/gold-title)
+- [No pumpkin](https://modrinth.com/resourcepack/no-pumpkin)
+- [Low fire](https://modrinth.com/resourcepack/low-fire-xyz)
 
 ## How to Add a Texture Pack in Minecraft
 

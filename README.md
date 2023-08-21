@@ -29,8 +29,8 @@ Explore a range of texture packs tailored for different Minecraft versions. Each
 7. **Apply and Enjoy**: Click the "Done" button to apply the texture pack. You'll now see the new textures and visuals in your Minecraft world!
 
 ## Community and Support
-
-If you have questions, need assistance with using a texture pack, or want to provide feedback, feel free to open an issue in this repository. Our community is here to help and engage in discussions related to the texture packs.
+> [!NOTE]
+> If you have questions, need assistance with using a texture pack, or want to provide feedback, feel free to open an issue in this repository. Our community is here to help and engage in discussions related to the texture packs.
 
 ## Legal Disclaimer
 > [!NOTE]

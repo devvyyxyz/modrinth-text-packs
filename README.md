@@ -1,4 +1,4 @@
-# Devvy's Modrinth Texture Packs
+![](https://github.com/devvyyxyz/modrinth-text-packs/blob/main/resources/minecraft%20textures.png?raw=true)
 
 Welcome to the Devvy's Modrinth Texture Packs repository! This repository hosts a collection of texture packs created by Devvyxyz and published on Modrinth.com. These texture packs offer unique visual experiences for various Minecraft versions.
 
